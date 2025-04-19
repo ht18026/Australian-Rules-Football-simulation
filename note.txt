@@ -1,0 +1,10 @@
+18 player each team
+5 Forward, eight Midfielder, five defender. 4 Reserve, some star player
+four quarter of 20 mins
+After each quarter the current score will be displayed. 
+After the 4th quarter the game result is displayed
+begin in the center
+goal 6 restart in the center
+behind 1 restart from the defender
+week 11 small enhancement
+Team, Player and AFLGame classes
